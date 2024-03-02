@@ -89,6 +89,7 @@ void main() async {
   );
 }
 
+
 final GlobalKey<NavigatorState> navigatorKey = new GlobalKey<NavigatorState>();
 final JPush jpush = JPush();
 // final JMLConfig jmlConfig = JMLConfig();
